@@ -1,1 +1,1 @@
-made easy website
+SEASIDE made easy website
